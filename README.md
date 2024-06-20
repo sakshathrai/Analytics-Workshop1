@@ -2,6 +2,8 @@
 
 One Day workshop on understanding Docker and Git
 
+TEST
+
 ## Prerequisite
 Machine/VM with linux, python3 (3.xx) and pip3 installed 
 Please run the following commands on your virtual machine(linux) or machine with linux OS
